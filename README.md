@@ -265,7 +265,7 @@ jeonju_220826_dream_women <- data.frame(matrix(c(3,1,1,0,0,
 colnames(jeonju_220826_dream_women) <- col_name
 rownames(jeonju_220826_dream_women) <- row_name
 
-#elementary_shcool_survey_results
+# elementary_shcool_survey_results
 iksan_elementary_220516_finance <- data.frame(matrix(c(11,7,3,0,0,
                                                        12,4,5,0,0,
                                                        10,4,6,1,0,
